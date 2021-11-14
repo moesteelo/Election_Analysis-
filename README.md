@@ -49,7 +49,7 @@ The Colorado Board of Elections objective is to use this python data to gather f
 
 The Mission
 
-The Colorado Board of elections mission is to make sure that everyone’s right to vote is exercised and that all votes are counted. Thanks to new technology and coding languages have taken the process of manually counting votes a thing of the past. With this unique python data, we can gather and provide extensive analysis on present and future congressional elections for the Colorado Board of Elections. 
+The Colorado Board of Elections mission is to make sure that everyone’s right to vote is exercised and that all votes are counted. Thanks to new technology and coding languages have taken the process of manually counting votes a thing of the past. With this unique python data, we can gather and provide extensive analysis on present and future congressional elections for the Colorado Board of Elections. 
 
 	
 
