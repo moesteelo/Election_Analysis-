@@ -37,6 +37,20 @@ Module 3 Python results from Congressional Election.
 
 Executive Summary
 
+This congressional election has provided the Colorado Board of Elections the results of the congressional winner and a very uniquely detailed overall county vote using python data. This data set has gathered a total of 369,711 congressional votes in over three counties. The python code used in collecting this data is unique, comprehensive, and provides an amazingly precise details on the election votes and percentages. In the future Congressional elections can use this data set can provide articulately detailed analysis on who will be the future congressional winner and how many votes were casted in the three counties of Colorado.  
+
+The Objective
+
+The Colorado Board of Elections objective is to use this python data to gather future congressional winners and provide detailed analysis of who won with the most votes, the percentage of those votes, and lastly what county casted the most votes. This data can be modified for any future congressional elections and that would require that you add the new resources data along with a new name and changing the variables names. For example:
+	
+• changing the variables names of the county votes and dictionary names to match present or current csv files 
+
+• It is important that you change that row and headers in the python data to match the csv file, so no problems or errors occur.  
+
+The Mission
+
+The Colorado Board of elections mission is to make sure that everyone’s right to vote is exercised and that all votes are counted. Thanks to new technology and coding languages have taken the process of manually counting votes a thing of the past. With this unique python data, we can gather and provide extensive analysis on present and future congressional elections for the Colorado Board of Elections. 
+
 	
 
 
