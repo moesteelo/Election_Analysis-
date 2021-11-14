@@ -28,7 +28,7 @@ The purpose of this election audit analysis is providing the Colorado Board of E
  
 5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-   The winning candidate is Diana DeGette with the largest winning votes 272,892 votes abd 73.8% of the total votes.
+   The winning candidate is Diana DeGette with the largest winning votes of 272,892 votes and 73.8% of the total votes.
 
 
 ## Election-Audit Summary:
