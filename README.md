@@ -36,9 +36,7 @@ The purpose of this analysis is to provide the Colorado Board of Elections the r
 Module 3 Python results from Congressional Election.
 
 Executive Summary
+
 	
-    This congressional election has provided the Colorado Board of Elections the results of the congressional winner and a very uniquely detailed overall county vote using python data. This data set has gathered a total of 369,711 congressional votes in over three counties. The python code used in collecting this data is unique, comprehensive, and provides an amazingly precise details on the election votes and percentages. In the future Congressional elections can use this data set can provide articulately detailed analysis on who will be the future congressional winner and how many votes were casted in the three counties of Colorado. 
-
-
 
 
